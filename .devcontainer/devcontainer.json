@@ -1,6 +1,8 @@
 {
   "name": "Netlify and Ably",
-  "runArgs": ["--init"],
+  "runArgs": [
+    "--init"
+  ],
   "build": {
     "dockerfile": "Dockerfile",
     "args": {
@@ -10,11 +12,15 @@
       "VARIANT": "16"
     }
   },
-  "forwardPorts": [8080, 8888, 9999],
+  "forwardPorts": [
+    8080,
+    8888,
+    9999
+  ],
   "portsAttributes": {
     "8888": {
       "label": "Netlify Local",
-      "onAutoForward": "ignore"
+      "onAutoForward": "openBrowserOnce"
     },
     "8080": {
       "label": "Vite DevServer",
