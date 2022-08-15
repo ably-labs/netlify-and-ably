@@ -1,1 +1,0 @@
-module.exports = require('./src/api/ably-token-request/index.js')
