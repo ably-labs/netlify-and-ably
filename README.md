@@ -2,14 +2,7 @@
 
 A GitHub template to quickly get started with Ably, hosted on Netlify, using TypeScript.
 
-Contents:
-
-- What is this?
-- Usage
-- Getting and Managing Ably API keys
-- Deployment
-- Dev Containers
-- Credits
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ably-labs/netlify-and-ably)
 
 ## What is this?
 
