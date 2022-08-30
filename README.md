@@ -31,7 +31,7 @@ You'll see a white page load, which in turn will load the Ably JavaScript SDK, a
 
 ## Getting and Managing Ably API keys
 
-In order to run this app, you will need an Ably API key. If you are not already signed up, you can [sign up now for a free Ably account](https://www.ably.io/signup). Once you have an Ably account:
+In order to run this app, you will need an Ably API key. If you are not already signed up, you can [sign up now for a free Ably account](https://www.ably.com/signup). Once you have an Ably account:
 
 1. Log into your app dashboard.
 2. Under **“Your apps”**, click on **“Manage app”** for any app you wish to use for this tutorial, or create a new one with the “Create New App” button.
