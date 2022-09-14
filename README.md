@@ -75,4 +75,4 @@ The rest of the Netlify build is configured via the `netlify.toml` file included
 
 # Dev Containers
 
-This repository contains pre-configured `.devcontainer` support, so you can use it to spin up either VS Code devcontainers, or a GitHub Codespace for your application. It should just work!
+This repository contains pre-configured `.devcontainer` support, so you can use it to spin up either VS Code devcontainers, or a GitHub Codespace for your application. It will just work!
