@@ -1,4 +1,4 @@
-import { Types } from "ably";
+import { Types } from "ably/promises";
 import * as Ably from "ably/promises";
 
 (async () => {
